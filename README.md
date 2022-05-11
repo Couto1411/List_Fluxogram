@@ -2,8 +2,8 @@
 Faça um diagrama para representar uma inserção, remoção e pesquisa em uma
 lista linear.
 # Logica
-Foi-se feito três fluxogramas possuindo em cada um, uma das funções pedidas:    
-<h1>Inserção</h1>
+Foi-se feito três fluxogramas (utilizando o software <a href="https://www.lucidchart.com/pages/" target="_blank">Lucidchart</a>) possuindo em cada um, uma das funções pedidas:    
+<h2>Inserção</h2>
 <p align="center">
 <img src="Inserção.png"/> 
 </p>
@@ -12,7 +12,7 @@ O diagrama representa um método com a função de inserir um item do tipo **Ite
 1) Verifica se a lista está cheia, caso esteja volta ao menu;
 2) Insere o item que foi informado no final da lista;
 3) Aumenta o valor da ultima casa da lista;
-<h1>Pesquisa</h1>
+<h2>Pesquisa</h2>
 <p align="center">
 <img src="Pesquisa.png"/> 
 </p>
@@ -22,7 +22,7 @@ O diagrama representa um método com a função de pesquisar um item do tipo **I
 2) Entra em um looping para procurar o item informado:
     - A cada iteração verifica se o item dessa posição é igual ao item informado, se sim, o imprime, se não vai para a próxima posição.
 
-<h1>Remoção</h1>
+<h2>Remoção</h2>
 <p align="center">
 <img src="Remoção.png"/> 
 </p>
